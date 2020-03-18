@@ -20,9 +20,9 @@ export default () => {
   //const { name, weight, img } = formData;
 
   //const getBears = async () => {
-    //const result = await axios.get(`http://localhost:8080/api/bears`)
-    //actions.getBears(result.data)
-    //dispatch({ type: 'GET_BEAR', bears: result.data })
+  //const result = await axios.get(`http://localhost:8080/api/bears`)
+  //actions.getBears(result.data)
+  //dispatch({ type: 'GET_BEAR', bears: result.data })
   //}
 
   // const addBear = async () => {
